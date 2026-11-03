@@ -1,0 +1,50 @@
+:Product: 20220416events.txt
+:Created: 2022 Apr 17 0327 UT
+:Date: 2022 04 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Apr 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6880       0022   0022      0022  LEA  G   RBR  410       190                   
+
+6890 +     0239   0250      0301  G16  5   XRA  1-8A      C5.1    4.9E-03   2993
+6890       0258   0258      0258  LEA  G   RBR  410       210                   
+
+6900       0515   0516      0516  LEA  G   RBR  410       540                   
+
+6910       0517   0519      0520  LEA  G   RBR  2695      130                   
+
+6920       0523   0524      0524  LEA  G   RBR  2695      100                   
+
+6930 +     0602   0611      0623  G16  5   XRA  1-8A      C3.7    4.0E-03   2993
+
+6940       0645   0645      0645  SVI  G   RBR  410       120                   
+
+6950 +     0717   0724      0731  G16  5   XRA  1-8A      C2.9    2.0E-03   2993
+
+6960 +     0737   0748      0756  G16  5   XRA  1-8A      C4.2    3.6E-03   2993
+
+6970 +     0847   0900      0907  G16  5   XRA  1-8A      C6.9    5.3E-03   2993
+
+6980 +     1039   1043      1047  G16  5   XRA  1-8A      C2.2    9.7E-04   2993
+
+6990 +     1122   1133      1158  G16  5   XRA  1-8A      C3.3    6.3E-03   2993
+
+7000 +     1350   1357      1409  G16  5   XRA  1-8A      C2.6    2.7E-03   2993
+
+7010 +     1418   1425      1433  G16  5   XRA  1-8A      C2.1    1.8E-03   2993
+
+7020 +     1442   1442      1442  SVI  G   RBR  410       280                   
+
+7030 +     1449   1456      1509  G16  5   XRA  1-8A      M1.0    8.5E-03   2993
+
+7040 +     1535   ////      1535  SAG  C   RSP  025-045   III/2                 
+
+7050 +     1613   1613      1613  SAG  U   RBR  610       230                   
+7050       1613   1613      1614  SAG  U   RBR  410       84                    

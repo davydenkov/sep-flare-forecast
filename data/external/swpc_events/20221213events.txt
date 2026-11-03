@@ -1,0 +1,102 @@
+:Product: 20221213events.txt
+:Created: 2022 Dec 16 0357 UT
+:Date: 2022 12 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Dec 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9630       0000   ////      0628  LEA  C   RSP  092-180   CTM/1                 
+
+9550       0014   0014      0015  LEA  G   RBR  245       180                   
+
+9560       0017   ////      0107  LEA  C   RSP  025-180   VI/2                  
+
+9570       0140   0142      0143  PAL  G   RBR  245       170                   
+9570       0140   ////      0141  LEA  C   RSP  025-180   III/2                 
+
+9580       0204   ////      0227  LEA  C   RSP  025-180   VI/2                  
+9580       0214   0215      0215  PAL  G   RBR  245       270                   
+
+9590 +     0254   0254      0255  LEA  G   RBR  245       300                   
+
+9600       0304   0305      0305  LEA  G   RBR  245       170                   
+
+9610       0317   0317      0317  LEA  G   RBR  245       120                   
+
+9640       0331   0331      0331  PAL  G   RBR  245       110                   
+
+9650       0356   ////      0623  LEA  C   RSP  025-180   VI/2                  
+
+9660       0514   0514      0514  LEA  G   RBR  245       100                   
+
+9620 +     0615   0617      0813  LEA  G   RNS  245       150                   
+
+9670       0622   ////      0623  SVI  C   RSP  075-180   III/1                 
+
+9680       0727   ////      0728  LEA  C   RSP  025-065   III/1                 
+
+9690       0730   0730      0731  SVI  G   RBR  245       100                   
+
+9700       0800   ////      0810  LEA  C   RSP  025-170   III/2                 
+
+9710       0856   0856      0856  SVI  G   RBR  245       140                   
+
+9720 +     0900   0904      0908  G16  5   XRA  1-8A      C1.7    6.8E-04   3153
+9720 +     0901   ////      0905  LEA  C   RSP  025-180   III/2             3153
+9720       0902   0904      0906  LEA  3   FLA  S15W72    SF                3153
+9720 +     0903   0903      0903  SVI  G   RBR  245       130               3153
+
+9730       1004   1005      1005  LEA  G   RBR  245       250                   
+
+9740       1007   1008      1008  LEA  G   RBR  245       210                   
+
+9750       1030   ////      1030  SVI  C   RSP  048-155   III/1                 
+
+9760       1140   ////      1141  SVI  C   RSP  030-084   III/1                 
+
+9770       1210   1210      1210  SVI  G   RBR  245       330                   
+9770       1210   ////      1211  SVI  C   RSP  025-180   III/3                 
+
+9800       1302   ////      1342  SAG  C   RSP  025-180   VI/1                  
+
+9780       1309   ////      1309  SVI  C   RSP  025-180   III/1                 
+
+9790       1338   ////      1343  SVI  C   RSP  025-180   III/1                 
+9790 +     1338   1338      1339  SVI  G   RBR  245       150                   
+
+9810 +     1448   ////      1449  SAG  C   RSP  025-180   III/1                 
+
+9820       1741   1741      1741  PAL  G   RBR  245       210                   
+
+9830       1813   ////      1815  SAG  C   RSP  048-180   III/1                 
+9830       1813   1813      1813  PAL  G   RBR  245       290                   
+
+9840       1942   1942      1942  PAL  G   RBR  245       150                   
+
+9850       1944   1945      1959  HOL  3   FLA  S16W79    SF                3153
+9850       1946   1946      1946  PAL  G   RBR  245       200               3153
+9850 +     1947   1955      2004  G16  5   XRA  1-8A      C1.9    1.9E-03   3153
+
+9860       2102   2102      2102  PAL  G   RBR  245       100                   
+
+9870       2200   2200      2200  LEA  G   RBR  245       420                   
+
+9880       2223   2223      2223  PAL  G   RBR  245       120                   
+
+9890       2246   2252      2257  LEA  3   FLA  S17W36    SF                3165
+
+9900 +     2259   2325      2357  LEA  3   FLA  S14W79    1F                3153
+9900 +     2312   2325      2333  G16  5   XRA  1-8A      C2.9    2.5E-03   3153
+
+9910 +     2312   ////      2319  LEA  C   RSP  025-180   III/2                 
+
+9900 +     2321   2323      2323  PAL  G   RBR  245       250               3153
+
+9920 +     2336   2336      2338  PAL  G   RBR  245       120               3153
+9920       2337   ////      2349  HOL  2   SPY  ////      15                3153

@@ -1,0 +1,11 @@
+{
+  "period_start": "2010-08-03 10:00:00+00:00",
+  "flares": 397,
+  "sep_flares": 31,
+  "sep_flares_with_sinp_match": 29,
+  "persistent_false_alarms": 25,
+  "persistent_false_alarms_with_sinp_event": 9,
+  "persistent_false_alarms_with_sinp_ge10pfu": 2,
+  "other_negatives": 341,
+  "other_negatives_with_sinp_event": 24
+}

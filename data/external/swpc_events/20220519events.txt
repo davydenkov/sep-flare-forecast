@@ -1,0 +1,97 @@
+:Product: 20220519events.txt
+:Created: 2022 May 22 0357 UT
+:Date: 2022 05 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 May 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6900       0000   ////      0012  PAL  C   RSP  025-180   VI/2                  
+
+6910       0146   0146      0148  LEA  3   FLA  N21E20    SF                3014
+
+6920       0203   ////      0204  PAL  C   RSP  025-061   III/1                 
+
+6930       0240   0252      0300  LEA  3   FLA  N22E19    SF      DSD       3014
+6930 +     0248   0252      0257  G16  5   XRA  1-8A      C3.9    2.0E-03   3014
+
+6940 +     0316   ////      0316  LEA  C   RSP  025-088   III/1                 
+
+6950 +     0327   0334      0342  G16  5   XRA  1-8A      C3.1    2.4E-03   3014
+6950       0330   0332      0343  LEA  3   FLA  N22E15    SF                3014
+
+6960       0402   ////      0411  LEA  C   RSP  025-180   VI/1                  
+6960       0409   ////      0411  PAL  C   RSP  025-180   III/1                 
+
+6970 +     0538   0551      0558  G16  5   XRA  1-8A      C5.5    5.2E-03   3014
+6970       0541   0551      0619  SVI  3   FLA  N21E18    SF      ERU       3014
+6970       0541   0541      0542  SVI  G   RBR  15400     240               3014
+
+6980 +     0629   0641      0656  G16  5   XRA  1-8A      C7.8    9.7E-03   3015
+6980       0632   0637      0657  SVI  3   FLA  N12E31    SF      ERU       3017
+6980       0632   0713      0756  SVI  3   FLA  N16E31    2B      ERU       3015
+
+6990 +     0700   0719      0731  G16  5   XRA  1-8A      M5.6    5.4E-02   3017
+
+7000       0700   ////      0701  SVI  C   RSP  025-084   III/1                 
+
+6990       0701   ////      0701  LEA  C   RSP  025-089   III/1             3017
+6990       0706   0714      0757  SVI  3   FLA  N12E37    1F      ERU       3017
+
+7010       0756   0800      0815  SVI  3   FLA  N16E31    SF      ERU       3015
+
+7020       0822   0824      0829  SVI  3   FLA  N16E31    SF      ERU       3015
+
+7030       0830   0832      0837  SVI  3   FLA  N16E32    SF      ERU       3015
+
+7040       0909   1008      1040  SVI  3   FLA  N20E18    1N      ERU       3014
+7040 +     0917   ////      0918  SVI  C   RSP  025-084   III/1             3014
+7040 +     1000   1009      1020  G16  5   XRA  1-8A      M1.5    1.1E-02   3014
+7040       1006   1007      1008  SVI  G   RBR  15400     450               3014
+7040       1006   1007      1008  SVI  G   RBR  8800      150               3014
+7040       1015   1017      1024  SVI  3   FLA  N10E37    SF      ERU       3017
+7040       1015   1015      1015  SVI  G   RBR  4995      120               3014
+
+7050       1054   1107      1133  SVI  3   FLA  N21E15    SF      ERU       3014
+
+7060       1147   1149      1155  SVI  3   FLA  N21E15    SF      ERU       3014
+
+7070 +     1202   1203      1204  SVI  G   RBR  410       21000                 
+7070 +     1203   1204      1205  SVI  G   RBR  245       8300                  
+7070 +     1203   1203      1203  SVI  U   RBR  610       350                   
+7070 +     1203   ////      1223  SAG  C   RSP  048-180   II/1    561           
+
+7080 +     1306   ////      1306  SAG  C   RSP  025-082   III/1                 
+
+7090       1329   1333      1336  SVI  3   FLA  S15W12    SF      ERU       3010
+
+7100 +     1349   1352      1400  SVI  3   FLA  N17E17    SF      ERU       3014
+
+7110       1413   1413      1415  HOL  2   FLA  N22E14    SF      ERU       3014
+
+7120 +     1431   ////      1437  SVI  C   RSP  025-086   III/1                 
+
+7130       1453   1454      1500  HOL  2   FLA  N21E13    SF      ERU       3014
+
+7140 +     1505   1516      1523  G16  5   XRA  1-8A      M1.1    7.6E-03   3014
+7140 +     1509   1513      1534  SVI  3   FLA  N21E13    SF      ERU       3014
+7140 +     1511   ////      1530  SVI  C   RSP  025-082   VI/1              3014
+
+7150 +     1527   1530      1539  SVI  3   FLA  S15W13    SF      ERU       3010
+
+7160 +     1615   ////      1620  SVI  C   RSP  025-084   III/1                 
+
+7170 +     1900   1914      1921  G16  5   XRA  1-8A      C3.3    3.3E-03   3010
+7170       1905   1913      1925  HOL  3   FLA  S16W11    SF      ERU       3010
+
+7180 +     2015   ////      2017  SAG  C   RSP  025-053   III/1                 
+
+7190 +     2106   ////      2123  PAL  C   RSP  025-087   VI/2                  
+7190 +     2122   2122      2122  PAL  G   RBR  245       150                   
+
+7200       2217   2231      2238  HOL  3   FLA  N18E21    SF      DSD       3015

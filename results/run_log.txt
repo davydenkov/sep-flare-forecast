@@ -1,0 +1,49 @@
+catboost 0 0.935
+catboost 1 0.937
+catboost 2 0.93
+catboost 3 0.937
+catboost 4 0.938
+catboost 5 0.929
+catboost 6 0.943
+catboost 7 0.931
+catboost 8 0.934
+catboost 9 0.934
+rf 0 0.929
+rf 1 0.935
+rf 2 0.927
+rf 3 0.935
+rf 4 0.93
+rf 5 0.93
+rf 6 0.934
+rf 7 0.931
+rf 8 0.927
+rf 9 0.935
+logreg 0 0.924
+logreg 1 0.926
+logreg 2 0.922
+logreg 3 0.925
+logreg 4 0.923
+logreg 5 0.924
+logreg 6 0.922
+logreg 7 0.923
+logreg 8 0.923
+logreg 9 0.927
+ablation all features
+ablation without flare_sxr
+ablation only flare_sxr
+ablation without connection
+ablation only connection
+ablation without cme
+ablation only cme
+ablation without radio_sweep
+ablation only radio_sweep
+ablation without radio_rstn
+ablation only radio_rstn
+ablation without active_region
+ablation only active_region
+ablation logistic baseline set
+ablation all features, strict CME timing
+legacy A: upstream table, upstream labels, threshold tuned on OOF (REVISED1 protocol)
+legacy B: upstream table, upstream labels, nested threshold
+legacy C: duplicates removed, upstream labels, nested threshold
+legacy D: duplicates removed, NOAA SPE labels, nested threshold

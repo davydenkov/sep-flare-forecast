@@ -1,0 +1,25 @@
+:Product: 20220119events.txt
+:Created: 2022 Jan 20 2127 UT
+:Date: 2022 01 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Jan 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2460 +     1406   ////      1406  SVI  C   RSP  025-093   III/1                 
+
+2470 +     1422   1428      1434  G16  5   XRA  1-8A      B3.3    2.1E-04   2930
+2470       1430   ////      1432  SVI  C   RSP  025-180   III/1                 
+
+2490 +     1633   1643      1649  G16  5   XRA  1-8A      B5.7    3.9E-04   2930
+
+2520 +     1809   1814      1818  G16  5   XRA  1-8A      B2.9    1.4E-04   2929
+
+2530 +     1918   1924      1929  G16  5   XRA  1-8A      B3.3    2.0E-04   2929
+
+2540 +     2350   0010      0018  G16  5   XRA  1-8A      C1.0    1.1E-03   2929

@@ -1,0 +1,30 @@
+{
+  "upstream_rows": 1150,
+  "upstream_sep_labels": 82,
+  "upstream_lon_abs_gt90": 229,
+  "upstream_lon_zero": 306,
+  "records_matched_to_noaa": 1115,
+  "unique_flares": 965,
+  "duplicate_records_removed": 185,
+  "removed_below_M2_in_noaa_list": 1,
+  "events": 964,
+  "sep_events": 94,
+  "upstream_heuristic_positive_after_dedup": 82,
+  "label_agreement": 926,
+  "spe_events_total": 150,
+  "spe_events_only_in_sdac_mirror": 11,
+  "spe_events_only_in_web_version_to_2017": 10,
+  "spe_events_with_flare": 136,
+  "spe_events_parent_in_noaa_list": 134,
+  "spe_events_parent_m2": 101,
+  "spe_events_parent_in_sample": 94,
+  "lon_source_counts": {
+    "NOAA flare report": 658,
+    "SRS region rotated": 136,
+    "unknown": 112,
+    "HEK (degrees)": 58
+  },
+  "srs_matched": 757,
+  "rstn_coverage": 919,
+  "fluence_from_noaa": 931
+}

@@ -1,0 +1,26 @@
+:Product: 20220414events.txt
+:Created: 2022 Apr 15 0327 UT
+:Date: 2022 04 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Apr 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6680       0902   ////      0904  SVI  C   RSP  025-082   III/1                 
+
+6730       1023   1322      1519  G16  5   XRA  1-8A      C1.3    2.0E-02       
+
+6690 +     1134   ////      1135  SVI  C   RSP  025-180   III/1                 
+6690 +     1135   1135      1135  SVI  G   RBR  245       550                   
+
+6700 +     1339   ////      1340  SVI  C   RSP  025-065   III/1                 
+
+6710       1612   ////      1613  SAG  C   RSP  025-180   III/1                 
+6710 +     1612   1613      1613  SVI  G   RBR  245       250                   
+
+6720       1613   ////      1614  SVI  C   RSP  025-083   III/1                 

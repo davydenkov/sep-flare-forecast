@@ -1,0 +1,51 @@
+:Product: 20221009events.txt
+:Created: 2022 Oct 12 0357 UT
+:Date: 2022 10 09
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Oct 09
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8160       0055   ////      0134  LEA  C   RSP  025-170   VI/2                  
+
+8170 +     0208   0225      0235  G16  5   XRA  1-8A      C2.1    2.9E-03   3112
+8170       0214   0225      0227  LEA  3   FLA  N23W11    SF      DSD       3112
+
+8180       0405   0407      0408  LEA  3   FLA  N23W11    SF                3112
+
+8190       0629   0631      0635  LEA  3   FLA  N27E21    SF                3119
+
+8200       0743   0743      0749  LEA  3   FLA  N23W11    SF                3112
+
+8210 +     0800   0822      0835  LEA  3   FLA  N23W11    SF                3112
+
+8220       0805   0813      1027  G17  5   XRA  1-8A      C3.4    2.0E-03   3112
+
+8210 +     0805   0813      0820  G16  5   XRA  1-8A      C3.3    2.0E-03   3112
+
+8230       0915   0921      0930  G16  5   XRA  1-8A      C2.0    1.6E-03   3112
+8230 +     0920   0922      0932  LEA  3   FLA  N22W23    SF                3112
+
+8250       1022  U1100      1133  SVI  3   FLA  N23W15    SF                3112
+
+8240 +     1027   1034      1046  G16  5   XRA  1-8A      C2.8    2.7E-03   3112
+
+8250 +     1058   1102      1106  G16  5   XRA  1-8A      C2.3    1.1E-03   3112
+
+8260       1312   1313      1317  SVI  3   FLA  N28E16    SF                3119
+
+8270 +     1410   1427      1456  G16  5   XRA  1-8A      C3.9    8.8E-03   3112
+
+8280 +     1837   1847      1903  G16  5   XRA  1-8A      C2.0    2.5E-03   3112
+
+8290 +     2146   2157      2205  G16  5   XRA  1-8A      C3.6    2.6E-03   3119
+8290       2154   2158      2210  HOL  3   FLA  N28E08    SF      DSD       3119
+
+8300 +     2211   2216      2224  G16  5   XRA  1-8A      C4.1    2.6E-03   3119
+
+8310      B2226   2230      2254  LEA  3   FLA  N29E10    SF                3119

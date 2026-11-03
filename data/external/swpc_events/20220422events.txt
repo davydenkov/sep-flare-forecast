@@ -1,0 +1,52 @@
+:Product: 20220422events.txt
+:Created: 2022 Apr 25 0357 UT
+:Date: 2022 04 22
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Apr 22
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8400       0016   0016      0016  LEA  G   RBR  410       100                   
+
+8410 +     0316   0401      0424  G16  5   XRA  1-8A      C7.6    1.8E-02   2993
+8410 +     0358   ////      0400  LEA  C   RSP  077-180   III/1                 
+8410 +     0359   0359      0359  LEA  G   RBR  245       120                   
+
+8420 +     0452   0514      0528  G16  5   XRA  1-8A      M1.1    1.7E-02   2993
+
+8430 +     0818   0823      0827  G16  5   XRA  1-8A      C1.1    5.7E-04   2993
+
+8440       1132   1140      1147  G16  5   XRA  1-8A      C1.1    9.6E-04   2996
+8440       1139   1142      1149  SVI  3   FLA  N25E51    SF      ERU       2996
+
+8450 +     1212   1229      1240  G16  5   XRA  1-8A      C3.5    3.9E-03       
+
+8460 +     1244   ////      1244  SAG  C   RSP  025-084   III/1                 
+
+8470 +     1316   1325      1330  G16  5   XRA  1-8A      M3.4    9.8E-03   2993
+8470 +     1323   1323      1351  HOL  3   FLA  N22W01    2B      DSD       2993
+8470       1323   1324      1325  SVI  G   RBR  410       8900              2993
+8470       1323   1324      1326  SVI  G   RBR  8800      1600              2993
+8470       1323   1324      1325  SVI  G   RBR  15400     2800              2993
+8470       1323   1324      1326  SVI  G   RBR  4995      740               2993
+8470       1323   1324      1333  SVI  G   RBR  1415      980               2993
+8470 +     1324   1324      1332  SVI  G   RBR  610       280               2993
+8470 +     1327   1327      1327  SVI  G   RBR  245       210               2993
+8470 +     1328   ////      1333  SVI  C   RSP  060-180   II/1    381       2993
+
+8480 +     1339   1345      1350  G16  5   XRA  1-8A      C3.6    2.1E-03       
+
+8490 +     1420   ////      1420  SAG  C   RSP  025-150   III/1                 
+
+8500 +     1502   1508      1517  G16  5   XRA  1-8A      C2.0    1.7E-03   2993
+8500 +     1504   1504      1504  SVI  G   RBR  610       350               2993
+8500       1505   1508      1513  HOL  3   FLA  N22W01    SF                2993
+
+8510 +     1656   ////      1657  SVI  C   RSP  058-180   III/1                 
+
+8520 +     2158   2207      2213  G16  5   XRA  1-8A      C2.4    1.7E-03   2993

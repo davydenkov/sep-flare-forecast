@@ -1,0 +1,67 @@
+:Product: 20220713events.txt
+:Created: 2022 Jul 16 0357 UT
+:Date: 2022 07 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Jul 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7660       0000   ////      0146  PAL  C   RSP  025-180   VI/2              3053
+7660       0003   0003      0003  LEA  G   RBR  245       100               3053
+7660       0027   0031      0035  LEA  3   FLA  N13W18    SF                3053
+
+7670 +     0136   0146      0150  G16  5   XRA  1-8A      C1.7    1.3E-03   3053
+7670       0142   0145      0208  LEA  3   FLA  N13W18    SF                3053
+
+7680       0208   0209      0237  LEA  3   FLA  S19E41    SF                3056
+
+7690 +     0312   ////      0312  LEA  C   RSP  025-180   III/2                 
+
+7730       0408   ////      1724  SVI  C   RSP  025-180   CTM/1                 
+
+7700 +     0410   ////      0410  LEA  C   RSP  025-102   III/1                 
+
+7710 +     0500   ////      0501  LEA  C   RSP  025-180   III/1                 
+7710       0501   0501      0501  PAL  G   RBR  4995      110                   
+
+7720       0637   0638      0640  SVI  3   FLA  S17E37    SF      ERU       3056
+
+7740 +     0713   0715      0717  LEA  3   FLA  N15E52    SF                3057
+7740 +     0717   0722      0727  G16  5   XRA  1-8A      C1.9    8.5E-04   3057
+
+7750       0950   ////      1724  SAG  C   RSP  112-180   CTM/1             3056
+7750 +     0952   ////      1438  SVI  C   RSP  025-075   VI/2              3056
+7750 +     0953   0959      1006  G16  5   XRA  1-8A      C1.4    1.1E-03   3056
+7750       0955   0959      1023  SVI  3   FLA  S17E36    SF      ERU       3056
+
+7760 +     1132   1139      1145  SVI  3   FLA  N15W26    SF      ERU       3053
+
+7770       1229   1232      1238  SVI  3   FLA  S18E34    SF      ERU       3056
+
+7780       1246   1248      1253  SVI  3   FLA  S16E34    SF      ERU       3056
+
+7790       1255   1258      1305  SVI  3   FLA  N15W48    SF      ERU       3052
+
+7800       1309   1310      1311  SVI  3   FLA  N15W48    SF      ERU       3052
+
+7810 +     1525   1533      1538  G16  5   XRA  1-8A      C1.7    1.3E-03   3056
+7810       1532   1534      1537  SVI  3   FLA  S17E33    SF      ERU       3056
+7810 +     1536   ////      1543  SVI  C   RSP  025-078   III/1             3056
+
+7820 +     1610   ////      1610  SVI  C   RSP  039-081   III/1                 
+
+7830 +     1612   1632      1709  G16  5   XRA  1-8A      C2.2    2.7E-03   3055
+7830       1618   1622      1703  SVI  3   FLA  S17W15    SF      ERU       3055
+
+7840 +     1920   1933      2002  G16  5   XRA  1-8A      C3.2    6.2E-03   3056
+
+7850 +     2044   2059      2115  G16  5   XRA  1-8A      C3.0    4.9E-03   3053
+
+7860 +     2327   2339      2347  G16  5   XRA  1-8A      C1.9    2.0E-03   3056
+
+7870       2327   2327      2328  LEA  G   RBR  2695      110                   

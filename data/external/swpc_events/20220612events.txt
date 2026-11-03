@@ -1,0 +1,33 @@
+:Product: 20220612events.txt
+:Created: 2022 Jun 15 0357 UT
+:Date: 2022 06 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Jun 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 340 +     0148   ////      0148  LEA  C   RSP  025-097   III/1                 
+
+ 350       0421   ////      0421  PAL  C   RSP  025-055   III/1                 
+
+ 420       0531   0842      0930  G16  5   XRA  1-8A      C1.8    1.8E-02   3032
+
+ 360 +     1059   ////      1101  SVI  C   RSP  065-170   III/1                 
+
+ 370 +     1206   1206      1206  SVI  G   RBR  245       380                   
+ 370 +     1206   ////      1208  SVI  C   RSP  076-180   III/2                 
+
+ 380 +     1207   1207      1207  SAG  U   RBR  410       78                    
+
+ 390 +     1432   ////      1432  SVI  C   RSP  051-180   III/2                 
+ 390 +     1432   1432      1432  SVI  G   RBR  245       170                   
+ 390 +     1432   1432      1432  SVI  G   RBR  410       240                   
+
+ 400 +     2105   ////      2105  SAG  C   RSP  025-051   III/1                 
+
+ 410 +     2129   2140      2157  G16  5   XRA  1-8A      C2.0    2.7E-03   3033

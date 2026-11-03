@@ -1,0 +1,48 @@
+:Product: 20220120events.txt
+:Created: 2022 Jan 21 2127 UT
+:Date: 2022 01 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Jan 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2540       0013   0013      0013  PAL  G   RBR  2695      530                   
+
+2550 +     0052   0100      0107  G16  5   XRA  1-8A      B4.4    3.7E-04   2929
+
+2560 +     0123   0135      0144  G16  5   XRA  1-8A      B7.0    6.6E-04   2929
+
+2570 +     0209   0214      0225  G16  5   XRA  1-8A      C1.1    8.5E-04   2929
+
+2580 +     0231   0246      0302  G16  5   XRA  1-8A      C1.6    2.4E-03   2929
+
+2590       0513   0524      0535  G17  5   XRA  1-8A      B5.3    6.5E-04   2929
+
+2600 +     0541   0601      0612  G16  5   XRA  1-8A      M5.5    4.3E-02   2929
+2600       0555   0559      0620  LEA  3   FLA  N08W68    1F                2929
+2600       0556   0600      0649  LEA  G   RBR  8800      1100    CastelliU 2929
+2600       0556   0640      0710  LEA  G   RBR  245       10000   CastelliU 2929
+2600       0556   ////      0604  LEA  C   RSP  025-180   V/3               2929
+2600       0557   0600      0612  LEA  G   RBR  15400     830     CastelliU 2929
+2600       0557   ////      0613  LEA  C   RSP  061-180   II/2    329       2929
+2600       0557   0618      0710  LEA  G   RBR  1415      3800    CastelliU 2929
+2600       0557   0601      0704  LEA  G   RBR  4995      840     CastelliU 2929
+2600       0557   0633      0711  LEA  G   RBR  610       10000   CastelliU 2929
+2600       0557   0638      0710  LEA  G   RBR  410       12000   CastelliU 2929
+2600       0558   0603      0710  LEA  G   RBR  2695      350     CastelliU 2929
+
+2610 +     0617   ////      0705  LEA  C   RSP  092-180   IV/1                  
+2610       0624   ////      0625  SVI  C   RSP  034-072   III/1                 
+
+2630       0711   ////      0810  SVI  3   DSF  S20W42    12                2933
+
+2620       1043   1043      1043  SVI  G   RBR  245       200                   
+
+2640 +     2049   2103      2117  G16  5   XRA  1-8A      B4.1    5.7E-04   2933
+
+2650 +     2349   0002      0009  G16  5   XRA  1-8A      B9.6    6.4E-04   2929

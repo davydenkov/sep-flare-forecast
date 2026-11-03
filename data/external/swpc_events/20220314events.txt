@@ -1,0 +1,39 @@
+:Product: 20220314events.txt
+:Created: 2022 Mar 15 0327 UT
+:Date: 2022 03 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Mar 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1780 +     0122   0131      0137  G16  5   XRA  1-8A      C1.2    8.3E-04   2965
+
+1790 +     0221   0235      0242  G16  5   XRA  1-8A      C2.1    1.7E-03   2965
+
+1800       0438   0448      0457  G17  5   XRA  1-8A      C1.0    1.0E-03       
+1800       0456   ////      0456  LEA  C   RSP  025-043   III/1                 
+
+1810 +     0638   0644      0651  G16  5   XRA  1-8A      C1.0    7.7E-04   2965
+
+1820       0829   0840      0845  G16  5   XRA  1-8A      M2.0    6.6E-03   2965
+
+1830      B0935  U0936     A0942  SVI  2   FLA  N23E04    SF                2965
+
+1840 +     1459   1508      1516  G16  5   XRA  1-8A      B7.9    7.3E-04   2965
+
+1850 +     1631   1638      1644  G16  5   XRA  1-8A      C1.0    6.2E-04   2965
+
+1860 +     1713   1732      1743  G16  5   XRA  1-8A      B8.5    1.3E-03       
+1860       1718   ////      1718  SAG  C   RSP  025-047   III/1                 
+1860       1720   ////      1739  SAG  C   RSP  025-180   II/2    632           
+
+1870 +     1853   ////      1854  PAL  C   RSP  025-078   III/1                 
+
+1880       2138   2151      2207  G16  5   XRA  1-8A      C1.3    9.8E-04   2965
+1880       2207   2214      2223  G16  5   XRA  1-8A      C5.3    3.5E-03   2965
+1880       2211   2213      2223  HOL  3   FLA  N24W05    SF                2965

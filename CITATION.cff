@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it as below."
+title: "sep-flare-forecast: data and code for solar proton event classification from flare, CME and radio observations (1997-2022)"
+authors:
+  - family-names: Davydenkov
+    given-names: I. I.
+    orcid: "https://orcid.org/0009-0008-7369-5831"
+    affiliation: "Space Research Institute of the Russian Academy of Sciences"
+  - family-names: Ozheredov
+    given-names: V. A.
+    orcid: "https://orcid.org/0000-0001-6641-444X"
+    affiliation: "Space Research Institute of the Russian Academy of Sciences"
+version: "1.0.0"
+date-released: "2026-11-03"
+license: MIT

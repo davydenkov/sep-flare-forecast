@@ -1,0 +1,22 @@
+{
+  "lead_time_h_median": 3.1,
+  "lead_time_h_q25": 0.8250000000000001,
+  "lead_time_h_q75": 11.287500000000001,
+  "sep_onset_before_cme_reference_time": 7,
+  "events_per_cycle": {
+    "size": {
+      "23": 559,
+      "24": 340,
+      "25": 65
+    },
+    "sum": {
+      "23": 63,
+      "24": 28,
+      "25": 3
+    }
+  },
+  "chrono_train": 569,
+  "chrono_test": 395,
+  "cme_delay_min_median_all": 76.55833333333334,
+  "cme_delay_outside_m60_p180": 380
+}

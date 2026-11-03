@@ -1,0 +1,58 @@
+:Product: 20220502events.txt
+:Created: 2022 May 05 0357 UT
+:Date: 2022 05 02
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 May 02
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1880 +     0000   ////      0240  LEA  C   RSP  076-180   III/1                 
+
+1890       0103   ////      0146  LEA  C   RSP  025-180   VI/2                  
+
+1900 +     0245   0251      0256  G16  5   XRA  1-8A      C1.2    7.2E-04   2994
+1900 +     0249   ////      0250  LEA  C   RSP  025-180   III/2                 
+
+1910       0306   ////      0306  LEA  C   RSP  079-180   III/1                 
+1910 +     0306   0306      0306  LEA  G   RBR  245       220                   
+
+1920 +     0342   ////      0343  LEA  C   RSP  025-180   III/1                 
+
+1930       0415   ////      0415  LEA  C   RSP  025-087   III/2                 
+
+1940       0515   ////      0515  LEA  C   RSP  076-180   III/1                 
+
+1950       0649   ////      0650  LEA  C   RSP  025-160   III/2                 
+
+1960       0929   ////      0934  SVI  C   RSP  025-151   III/1                 
+
+1970       1020   ////      1020  SVI  C   RSP  025-050   III/1                 
+
+2000       1452   1452      1452  SAG  U   RBR  245       120                   
+
+2010 +     1509   ////      1539  SVI  C   RSP  025-080   VI/1                  
+
+2020       1726   1727      1727  SAG  U   RBR  245       120                   
+
+2030       1736   1736      1736  PAL  G   RBR  245       220                   
+2030       1736   1736      1800  SAG  U   RNS  245       250                   
+
+2050 +     1855   1920      1944  G16  5   XRA  1-8A      C3.2    7.0E-03       
+2050 +     1908   ////      1910  SAG  C   RSP  025-180   III/2                 
+2050       1908   1909      1909  SAG  U   RBR  410       110                   
+2050       1909   1909      1909  SAG  U   RBR  245       51                    
+
+2060 +     1958   1958      2000  PAL  G   RBR  245       240                   
+
+2070       2005   2005      2005  PAL  G   RBR  245       220                   
+
+2080       2006   ////      2255  SAG  C   RSP  125-180   CTM/1                 
+
+2040 +     2016   2016      2055  PAL  G   RNS  245       140                   
+
+2090       2117   ////      2210  SAG  C   RSP  025-180   VI/2                  

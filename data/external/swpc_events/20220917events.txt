@@ -1,0 +1,49 @@
+:Product: 20220917events.txt
+:Created: 2022 Sep 20 0357 UT
+:Date: 2022 09 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Sep 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2300 +     0129   ////      0238  LEA  C   RSP  075-180   CTM/1             3100
+2300 +     0135   0157      0211  G16  5   XRA  1-8A      C3.0    5.0E-03   3100
+2300       0141   0141      0144  LEA  3   FLA  S26W25    SF                3100
+
+2310       0307   ////      0308  LEA  C   RSP  101-180   III/1                 
+
+2320       0431   0440      0448  G17  5   XRA  1-8A      C1.7    1.5E-03   3098
+
+2330       0509   0517      0525  G17  5   XRA  1-8A      C1.6    1.5E-03   3102
+
+2360       0526   ////      1006  LEA  C   RSP  069-180   CTM/1                 
+
+2390       0809   ////      1423  SVI  U   RSP  115-141   CTM/1                 
+
+2350       0815   0823      0831  G16  5   XRA  1-8A      C1.2    1.0E-03   3100
+
+2340       0831   0838      0844  G16  5   XRA  1-8A      C1.4    1.0E-03   3098
+
+2400       1051   ////      1327  SAG  C   RSP  114-180   CTM/1                 
+
+2370 +     1224   ////      1225  SAG  C   RSP  025-048   III/1                 
+
+2380 +     1321   1339      1353  G16  5   XRA  1-8A      M1.9    3.1E-02   3098
+
+2410 +     1410   ////      1415  SVI  U   RSP  025-045   III/1                 
+
+2420 +     1533   ////      1534  SVI  C   RSP  025-083   III/1                 
+
+2430       1925   1925      1929  HOL  3   FLA  S25E16    SF      ERU       3102
+
+2440 +     2013   2022      2031  G16  5   XRA  1-8A      C2.3    2.0E-03   3098
+
+2450 +     2032   2041      2052  G16  5   XRA  1-8A      M2.6    2.1E-02   3098
+
+2460 +     2313   2319      2325  G16  5   XRA  1-8A      C1.6    1.0E-03   3100
+2460 +     2316   2316      2319  HOL  3   FLA  S26W41    SF                3100

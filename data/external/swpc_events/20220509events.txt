@@ -1,0 +1,61 @@
+:Product: 20220509events.txt
+:Created: 2022 May 12 0357 UT
+:Date: 2022 05 09
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 May 09
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4480       0000   0427      0427  LEA  G   RNS  245       230                   
+
+4410 +     0059   0105      0113  G16  5   XRA  1-8A      C2.5    1.6E-03   3004
+
+4530      A0111   ////     A1303  HOL  2   DSF  S37W40    79                    
+
+4410       0111   ////      0232  LEA  C   RSP  090-180   CTM/1                 
+
+4420 +     0127   ////      0127  LEA  C   RSP  036-055   III/2                 
+
+4430       0319   0319      0319  PAL  G   RBR  245       110                   
+
+4440       0322   ////      0322  LEA  C   RSP  025-088   III/1                 
+
+4450 +     0427   0427      0427  SVI  G   RBR  245       150                   
+
+4460       0538   ////      0538  SVI  C   RSP  029-075   III/1                 
+
+4470       0648   ////      0648  SVI  U   RSP  031-056   III/1                 
+
+4490 +     1055   ////      1102  SVI  C   RSP  025-180   III/2                 
+4490       1055   1055      1055  SAG  U   RBR  245       100                   
+
+4500 +     1240   ////      1242  SAG  C   RSP  025-053   III/1                 
+
+4510       1332   1332      1344  SVI  3   FLA  S34E12    SF                3006
+
+4540 +     1356   ////      1427  SAG  C   RSP  025-124   VI/1                  
+
+4520 +     1415   1431      1442  G16  5   XRA  1-8A      C2.1    2.4E-03   3007
+4520       1428   1432      1437  SVI  3   FLA  S22E67    SF                3007
+
+4630       1735   1741      1749  G16  5   XRA  1-8A      C1.0    5.4E-04   3007
+
+4560 +     1735   ////      1736  SAG  C   RSP  025-170   III/1                 
+
+4550       1736   ////      1736  SVI  C   RSP  042-083   III/1                 
+
+4640       1749   1753      1757  G16  5   XRA  1-8A      B9.9    5.0E-04   3007
+
+4550 +     1756   1803      1813  G16  5   XRA  1-8A      C1.5    1.4E-03   3006
+
+4570 +     2054   2057      2103  G16  5   XRA  1-8A      C1.2    6.4E-04   3007
+4570 +     2101   ////      2103  SAG  C   RSP  025-091   III/1                 
+
+4580 +     2116   2126      2138  G16  5   XRA  1-8A      C1.2    1.4E-03   3006
+
+4590       2333   ////      2334  LEA  C   RSP  025-125   III/1                 

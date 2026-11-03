@@ -1,0 +1,70 @@
+:Product: 20221010events.txt
+:Created: 2022 Oct 13 0357 UT
+:Date: 2022 10 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Oct 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8320      B0000   0046      0114  LEA  3   FLA  N24W26    1F      DSD       3112
+8320       0022   ////      0028  LEA  C   RSP  129-180   CTM/1             3112
+8320 +     0035   0047      0055  G16  5   XRA  1-8A      M1.0    1.1E-02   3112
+
+8330       0223   0241      0255  LEA  3   FLA  N27E08    SF                3119
+8330       0224   ////      0236  LEA  C   RSP  076-180   III/1             3119
+
+8340       0415   ////      0434  LEA  C   RSP  074-180   VI/1                  
+
+8350 +     0539   ////      0539  LEA  C   RSP  075-180   III/1                 
+
+8360 +     0702   0708      0712  G16  5   XRA  1-8A      C1.1    6.1E-04   3112
+
+8370 +     0720   ////      0749  LEA  C   RSP  069-180   VI/1                  
+
+8380 +     0911   ////      0911  SVI  C   RSP  025-083   III/2                 
+
+8390 +     0954   1002      1007  G16  5   XRA  1-8A      C1.2    8.3E-04       
+
+8400 +     1241   ////      1241  SVI  C   RSP  029-055   III/1                 
+
+8410 +     1534   1545      1558  G16  5   XRA  1-8A      C4.9    4.7E-03   3115
+8410       1556   ////      1828  HOL  3   LPS  ////      0.05              3115
+
+8420 +     1605   1628      1647  G16  5   XRA  1-8A      M2.4    3.9E-02   3112
+8420       1606   ////      1607  SAG  C   RSP  125-180   III/1             3112
+8420       1611   1619      1653  HOL  3   FLA  N24W34    SF      ERU       3112
+
+8430       1729   ////      1731  SAG  C   RSP  025-042   III/1                 
+
+8440 +     1810   ////      1810  PAL  C   RSP  025-049   III/1                 
+
+8450 +     1915   1921      1925  G16  5   XRA  1-8A      C3.2    1.5E-03       
+8450 +     1919   ////      1921  PAL  C   RSP  063-180   III/2                 
+8450       1920   1920      1920  SAG  U   RBR  245       330                   
+8450       1920   1920      1921  SAG  U   RBR  610       190                   
+8450       1921   1921      1921  SAG  U   RBR  410       41                    
+
+8460 +     2047   2054      2059  G16  5   XRA  1-8A      C1.5    8.4E-04   3119
+8460       2052   ////      2112  PAL  C   RSP  025-086   VI/2              3119
+8460       2053   2054      2059  HOL  3   FLA  N28W02    SF                3119
+
+8470       2109   ////      2110  SAG  C   RSP  025-074   III/1                 
+
+8480 +     2131   2138      2144  G16  5   XRA  1-8A      C1.5    1.1E-03   3119
+
+8490 +     2200   2209      2214  G16  5   XRA  1-8A      C2.1    1.3E-03   3111
+8490       2207   ////      2207  PAL  C   RSP  025-180   III/2                 
+
+8500       2237   ////      2239  LEA  C   RSP  025-145   III/1                 
+
+8510 +     2312   2321      2325  G16  5   XRA  1-8A      C3.2    1.3E-03   3112
+8510       2318   2319      2319  LEA  G   RBR  245       2200                  
+8510 +     2318   ////      2325  LEA  C   RSP  025-180   III/2                 
+8510       2319   2319      2319  LEA  G   RBR  610       130                   
+
+8520       2354   ////      2354  PAL  C   RSP  025-087   III/1                 
