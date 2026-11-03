@@ -1,5 +1,7 @@
 # sep-flare-forecast
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23912985.svg)](https://doi.org/10.5281/zenodo.23912985)
+
 Data and code for the paper
 
 > I. I. Davydenkov, V. A. Ozheredov, *Probabilistic forecasting of >10 MeV solar proton
@@ -137,5 +139,6 @@ the terms of their providers (U.S. Government works).
 
 ## Citation
 
-See `CITATION.cff`. Please cite the paper and the archived release of this repository
-(Zenodo DOI to be added on release).
+See `CITATION.cff`. Please cite the paper and the archived release of this repository:
+version 1.0.0, <https://doi.org/10.5281/zenodo.23912985> (all versions:
+<https://doi.org/10.5281/zenodo.23912984>).
